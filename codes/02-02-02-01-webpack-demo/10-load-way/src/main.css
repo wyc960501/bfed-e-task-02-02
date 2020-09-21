@@ -1,0 +1,8 @@
+@import url(reset.css);
+
+body{
+    min-height: 100vh;
+    background: #f4f8fb;
+    background-image:url(background.jpg);
+    background-size: cover;
+}
